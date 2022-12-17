@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04b96c42-e70a-41fb-a1c8-3a9c599a1cb8" name="Changes" comment="Criação Das Classes BootCamp e Dev">
+    <list default="true" id="04b96c42-e70a-41fb-a1c8-3a9c599a1cb8" name="Changes" comment="Criação Do Métodos da Classe Dev">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/desafio-dio-oo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafio-dio-oo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/desafio-dio-oo/br/com/dio/desafio/dominio/Curso.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafio-dio-oo/br/com/dio/desafio/dominio/Curso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/desafio-dio-oo/br/com/dio/desafio/dominio/Mentoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafio-dio-oo/br/com/dio/desafio/dominio/Mentoria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/BootCamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/BootCamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Conteudo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1671297209414</updated>
       <workItem from="1671297210398" duration="1662000" />
-      <workItem from="1671300528998" duration="3876000" />
+      <workItem from="1671300528998" duration="7142000" />
     </task>
     <task id="LOCAL-00001" summary="Add README.md">
       <created>1671300623667</created>
@@ -81,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671303655563</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Criação Do Métodos da Classe Dev">
+      <created>1671304571987</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671304571987</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Criação Do Métodos da Classe Dev">
+      <created>1671304580421</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671304580421</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +126,7 @@
     <MESSAGE value="Add README.md" />
     <MESSAGE value="Criação Da Classe Mãe — Conteudo" />
     <MESSAGE value="Criação Das Classes BootCamp e Dev" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criação Das Classes BootCamp e Dev" />
+    <MESSAGE value="Criação Do Métodos da Classe Dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação Do Métodos da Classe Dev" />
   </component>
 </project>

@@ -6,6 +6,15 @@ import java.util.LinkedHashSet;
 import java.util.Objects;
 import java.util.Set;
 
+/**
+ *
+ *  <h2><a>Classe BootCamp<a/>
+ *  <p>Classe que contem nome, descricao, dataincial e final, e curos para realização do bootcamp
+ *  <p>Método: Getter, Setter, HashCode, equals e to String<p/>
+ * */
+
+
+
 public class BootCamp {
 
     private String nome;
@@ -66,5 +75,17 @@ public class BootCamp {
     @Override
     public int hashCode() {
         return Objects.hash(nome, descricao, dataInicial, dataFinal, devsInscritos, conteudos);
+    }
+
+    @Override
+    public String toString() {
+        return "BootCamp{" +
+                "nome='" + nome + '\'' +
+                ", descricao='" + descricao + '\'' +
+                ", dataInicial=" + dataInicial +
+                ", dataFinal=" + dataFinal +
+                ", devsInscritos=" + devsInscritos +
+                ", conteudos=" + conteudos +
+                '}';
     }
 }
