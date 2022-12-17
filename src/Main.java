@@ -1,3 +1,4 @@
+import br.com.dio.desafio.dominio.Conteudo;
 import br.com.dio.desafio.dominio.Curso;
 import br.com.dio.desafio.dominio.Mentoria;
 
@@ -33,6 +34,10 @@ public class Main {
         // Impressão do Objeto Curso Mentoria
         System.out.println(mentoria);
 
+        // Instanciamento por Polimofismo
+
+        Conteudo conteudo = new Curso();
+        Conteudo conteudo1 = new Mentoria();
 
     }
 }
